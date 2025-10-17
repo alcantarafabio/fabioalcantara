@@ -1,8 +1,12 @@
 # Códigos Curso de Python
 
-Esta pasta contém os códigos que desenvolvi enquanto acompanhava o curso **[Programação com Python - do Zero ao Avançado](https://www.udemy.com/course-dashboard-redirect/?course_id=5688572)**.
+Esta pasta contém os códigos desenvolvidos durante o acompanhamento do curso **[Programação com Python - do Zero ao Avançado](https://www.udemy.com/course-dashboard-redirect/?course_id=5688572)**.
 
-O curso ainda está em andamento, então os arquivos refletem meu progresso até o momento.
+Os arquivos refletem exercícios práticos, exemplos e projetos criados para aplicar os conceitos apresentados nas aulas, evidenciando minha evolução no aprendizado da linguagem.
 
-**Nota:**  
-Não inclui materiais originais do curso (slides, vídeos etc.). Os arquivos são cópias do que o instrutor fez durante os vídeos e que eu repliquei para aprender. Se existem algumas pequenas modificações, são adaptações pessoais feitas por mim.
+**Observação:**  
+Alguns arquivos contêm diferentes exemplos organizados em forma de comentários, seguindo a estrutura natural das aulas.
+
+---
+
+**Nota:** O repositório não inclui materiais originais do curso, como slides ou vídeos.
