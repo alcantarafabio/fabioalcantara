@@ -6,7 +6,7 @@ GitHub: [@alcantarafabio](https://github.com/alcantarafabio)
 
 Procurando estágio
 
-Sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas (ADS) na FMU, em São Paulo. Estou à procura de uma oportunidade de estágio na área de tecnologia para aplicar e expandir meus conhecimentos em desenvolvimento de software, análise de dados e áreas correlatas.
+Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na FMU, em São Paulo. Estou à procura de uma oportunidade de estágio na área de tecnologia para aplicar e expandir meus conhecimentos em desenvolvimento de software, análise de dados e áreas correlatas.
 
 -----------------------------------------------------------------------------
 
