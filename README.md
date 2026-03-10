@@ -4,31 +4,37 @@ GitHub: [@alcantarafabio](https://github.com/alcantarafabio)
 
 ----------------------------------------------------------------------------
 
-Procurando estágio
+Sobre mim:
 
-Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na FMU, em São Paulo. Estou à procura de uma oportunidade de estágio na área de tecnologia para aplicar e expandir meus conhecimentos em desenvolvimento de software, análise de dados e áreas correlatas.
+Sou graduando em ADS na FMU (4º semestre) em São Paulo. Minha trajetória profissional é consolidada na música e na educação (instrumentista e educador), o que me trouxe rigor analítico e disciplina — competências que hoje aplico no desenvolvimento de sistemas e administração de infraestrutura.
 
------------------------------------------------------------------------------
+- Foco Técnico e Aprendizado
+Este repositório centraliza códigos e alguns exercícios direcionados desenvolvidos ao longo do meu processo de aprendizado, com foco atual em:
 
-Este repositório apresenta códigos e exercícios desenvolvidos ao longo do meu processo de aprendizado, utilizando linguagens como Python, Java e JavaScript.
+- Python: Desenvolvimento de lógica e fundamentos através do curso "Programação com Python - do Zero ao Avançado" (Fábio dos Reis - Bóson Treinamentos). Aplicação prática em disciplinas da graduação como Estrutura de Dados, Pesquisa, Ordenação e Técnicas de Armazenamento (POTA) e Técnicas de Machine Learning. Scripts de automação em breve.
 
-Nota:** O repositório é atualizado regularmente com novos projetos e estudos.
+- Linux & Infraestrutura: Estudos técnicos de administração de sistemas e linha de comando (CLI).
 
-Objetivos
+- Certificação: Em preparação ativa para a LPI Linux Essentials (Exame próximo).
 
-- Consolidar meu domínio nas linguagens estudadas.
-- Desenvolver projetos práticos que aprimorem minha experiência.
-- Aperfeiçoar o uso de ferramentas como Git e GitHub, além de práticas profissionais.
-- Preparar-me para os desafios e demandas do mercado de tecnologia.
+Nota: O repositório é atualizado regularmente com novos projetos e estudos. No final deste semestre, incluirei projetos em Dart & Flutter.
 
-Tecnologias utilizadas
 
-![Python](https://img.shields.io/badge/language-Python-blue)
-![Java](https://img.shields.io/badge/language-Java-red)
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
+Objetivos:
+  
+- Consolidar o domínio em Python e Administração Linux.
 
----
+- Desenvolver projetos práticos de automação e infraestrutura.
 
-Para contato, por favor envie um e-mail para: [fabioalcantara.br@gmail.com](mailto:fabioalcantara.br@gmail.com)
+- Conquistar uma oportunidade de estágio para aplicar meus conhecimentos e evoluir profissionalmente.
+
+- Preparar-me para as demandas reais do mercado de tecnologia.
+
+- Tecnologias em Foco
+  
+
+Contato:
+
+Para propostas de estágio ou troca de conhecimentos, por favor envie um e-mail para: fabioalcantara.br@gmail.com
 
 Agradeço sua visita e interesse!
