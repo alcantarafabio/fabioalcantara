@@ -1,7 +1,7 @@
 # Portfólio de Fábio da Rocha e Silva Alcântara
 
 ### Sobre mim
-Sou graduando em ADS na FMU (4º semestre) em São Paulo. Minha trajetória profissional é consolidada na música e na educação (instrumentista e educador), o que me trouxe rigor analítico e disciplina — competências que hoje aplico no desenvolvimento de sistemas e administração de infraestrutura.
+Minha trajetória profissional está ligada à música e à educação (como instrumentista e educador). Essa experiência desenvolveu disciplina e pensamento analítico, que hoje também aplico no desenvolvimento de sistemas e na administração de infraestrutura.
 
 ### Foco Técnico e Aprendizado
 Este repositório centraliza códigos e alguns exercícios direcionados desenvolvidos ao longo do meu processo de aprendizado, com foco atual em:
