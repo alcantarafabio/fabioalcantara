@@ -1,7 +1,7 @@
 # Fábio Alcântara — Portfólio e Estudos em Tecnologia
 
 ### Sobre mim
-Minha trajetória profissional está ligada à música e à educação (como instrumentista e educador). Essa experiência desenvolveu disciplina e pensamento analítico, que hoje também aplico no desenvolvimento de sistemas e nos estudos de infraestrutura e Linux.
+Minha trajetória profissional está ligada à música e à educação (como músico, instrumentista e educador). Essa experiência desenvolveu disciplina e pensamento analítico, que hoje também aplico no desenvolvimento de sistemas e nos estudos de infraestrutura e Linux.
 
 ### Foco Técnico e Aprendizado
 Este repositório centraliza códigos e alguns exercícios direcionados desenvolvidos ao longo do meu processo de aprendizado, com foco atual em:
